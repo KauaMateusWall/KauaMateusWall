@@ -19,11 +19,13 @@ Sou um entusiasta da tecnologia apaixonado por desenvolvimento de software e sol
 
 ### 🚀 Tecnologias que utilizo
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<div align="center">
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+
 </div>
 
 ---
@@ -31,14 +33,19 @@ Sou um entusiasta da tecnologia apaixonado por desenvolvimento de software e sol
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauaMateusWall&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaMateusWall&layout=compact&theme=radical"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=KauaMateusWall&show_icons=true&theme=radical" width="400" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaMateusWall&layout=compact&theme=radical" width="400" alt="Top Languages"/>
+
 </div>
 
 ---
 
-<!-- Plugin de Licenças (caso você use o Metrics do GitHub) -->
-<!-- 
+### 🛠️ Plugins (Opcional - Métricas)
+
+Você pode configurar plugins de métricas com repositórios como o [`metrics`](https://github.com/lowlighter/metrics):
+
+```yaml
 name: Licenses and permissions
 with:
   filename: metrics.plugin.licenses.svg
@@ -48,14 +55,3 @@ with:
   repo: metrics
   plugin_licenses: yes
   plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
--->
-
----
-
-### 📫 Contato
-
-- 📧 Email: *[seu-email-aqui]*  
-
----
-
-⭐️ *Sinta-se à vontade para contribuir com meus repositórios, sugerir melhorias ou trocar ideias!*
