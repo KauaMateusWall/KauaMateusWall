@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou Kauã Mateus Wall 👋</h1>
 
-<!--
-**KauaMateusWall/KauaMateusWall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/kauã-mateus-wall-479442270/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/kaua.wall/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 👨‍💻 Sobre mim
+
+Sou um entusiasta da tecnologia apaixonado por desenvolvimento de software e soluções criativas. Tenho interesse em desenvolvimento web, interfaces modernas e estou sempre buscando aprender algo novo e evoluir minhas habilidades.
+
+---
+
+### 🚀 Tecnologias que utilizo
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KauaMateusWall&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaMateusWall&layout=compact&theme=radical"/>
+</div>
+
+---
+
+<!-- Plugin de Licenças (caso você use o Metrics do GitHub) -->
+<!-- 
+name: Licenses and permissions
+with:
+  filename: metrics.plugin.licenses.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  template: repository
+  repo: metrics
+  plugin_licenses: yes
+  plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
 -->
+
+---
+
+### 📫 Contato
+
+- 📧 Email: *[seu-email-aqui]*  
+
+---
+
+⭐️ *Sinta-se à vontade para contribuir com meus repositórios, sugerir melhorias ou trocar ideias!*
