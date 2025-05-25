@@ -40,10 +40,7 @@ Sou um entusiasta da tecnologia apaixonado por desenvolvimento de software e sol
 ### 📫 Contato
 
 📍 Erechim – RS  
-📧 Email: *seu-email-aqui@example.com*  
-🔗 [LinkedIn](https://www.linkedin.com/in/kauã-mateus-wall-479442270/)  
-📸 [Instagram](https://www.instagram.com/kaua.wall/)
-
+📧 Email: kaua99088wx@gmail.com
 ---
 
 ⭐️ *Sinta-se à vontade para contribuir com meus repositórios, sugerir melhorias ou trocar ideias!*
